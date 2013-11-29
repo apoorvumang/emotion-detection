@@ -3,9 +3,9 @@
 import sys
 import os.path
 
-# This is a tiny script to help you creating a CSV file from a face
-# database with a similar hierarchie:
-#
+# This is a tiny script to help you creating a CSV file from a list
+# of images
+
 #  philipp@mango:~/facerec/data/at$ tree
 #  .
 #  |-- README
